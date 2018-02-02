@@ -1,7 +1,7 @@
 Bagging, Boosting, and Random Forests on Vehicle Purchase Data
 ----------------
 
-This project involves using SAS Enterprise Miner to analyze a dataset containing vehicle purchase information.  My goal is to use ensemble models, which combine distinct models and average their outputs.  I will create bagging, boosting, gradient boosting, and random forest models--all of which are ensemble variants of the decision tree.  My goal is to determine which of these methods is the most accurate, and which is most effective at classifying bad vehicle purchases.
+This project involves using SAS Enterprise Miner to analyze a dataset containing vehicle purchase information.  In this analysis, I will use ensemble models, which combine distinct models and average their outputs.  I will create bagging, boosting, gradient boosting, and random forest models--all of which are ensemble variants of the decision tree.  My goal is to determine which of these methods is the most accurate, and which is most effective at classifying bad vehicle purchases.
 
 The full report can be found in the file "Ensemble Models 1.pdf".  This report shows a complete breakdown of my analysis, including problem identification, motivation, data exploration, data preparation, data sampling, ensemble model development, model results, model comparison, and proposed solutions.  Tables and visualizations are included in the appendix.
 
